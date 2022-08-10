@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+}
+
+.stylee{
+    display: flex;
+
+    justify-content: center;
+ 
+    margin-top: 311px;
+    
+    color: white;
+    font-size: 100px;
+}
